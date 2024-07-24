@@ -1,0 +1,33 @@
+* {
+    margin: 5px;
+    padding: 25px;
+    align-content: center;
+}
+
+.lorem {
+    width: 520px;
+    height: 200px;
+    color: aliceblue;
+    background-color: blueviolet;
+    border: 5px solid gray;
+}
+
+.dolor {
+    width: 520px;
+    height: 200px;
+    color: yellowgreen;
+    background-color: rgb(43, 101, 226);
+    border: 5px solid gray;
+}
+
+#profile {
+    width: 100px;
+    height: 90px;
+    float: left;
+}
+
+#pic {
+    width: 100px;
+    height: 90px;
+    float: left;
+}
